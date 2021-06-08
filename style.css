@@ -157,7 +157,7 @@ h1.title {
 
 .ourteam_wrapper .team {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .ourteam_wrapper .team-1.team {
