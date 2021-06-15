@@ -183,6 +183,10 @@ h1.title {
   color:#fb2274
 }
 
+.ourteam_wrapper .team_member p {
+  color:rgb(51, 50, 50)
+}
+
 .ourteam_wrapper .team_member:hover img {
   transform: scale(1.1);
 } 
