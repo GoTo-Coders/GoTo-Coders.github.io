@@ -179,7 +179,7 @@ h1.title {
   transition: all 0.5s ease;
 }
 
-.ourteam_wrapper .team_member a {
+.ourteam_wrapper .team_member h3 {
   color:#fb2274
 }
 
